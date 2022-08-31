@@ -9,3 +9,11 @@
 5. dynamic programming
 6. shortest path
 7. graph method
+
+<br>
+
+----
+
+<br>
+
+algorithm questions from ndb, programmers
